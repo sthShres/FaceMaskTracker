@@ -5,12 +5,8 @@ A new Flutter application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+This project was developed using flutter and ai base Trained model to detect the face mask.
+It can only detect static human which can be help to protect ATM machine and booth to detect the theif.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart 2.9 was used 
+Simple Home screen is made
